@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vatsal Garg</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT+Investigator;Network+Security+Analyst;CSE+Undergraduate" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT;CSE+Undergraduate" alt="Typing Animation">
 </p>
 
 <h3 align="center">
