@@ -5,9 +5,9 @@
 </p>
 
 <h3 align="center">
-Computer Science Engineering student with a strong foundation in Cybersecurity, OSINT, and Network Security.  
-I’m passionate about uncovering vulnerabilities, strengthening defenses, and helping safeguard India’s digital infrastructure.  
-Currently seeking a challenging internship or research opportunity to apply my problem-solving mindset and contribute to a mission-driven cybersecurity team.
+With a strong aptitude for independent research and quick learning, I am deeply interested in national security and motivated to move beyond theoretical knowledge to help protect India's critical digital infrastructure.
+
+I am seeking a challenging internship to apply my problem-solving skills to real-world threats and contribute to a mission-driven team.
 </h3>
 
 ---
