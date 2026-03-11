@@ -12,9 +12,9 @@ Currently seeking a challenging internship or research opportunity to apply my p
 
 ---
 
-* 👨‍💻 Explore my projects: [github.com/vatsalgargg](https://github.com/vatsalgargg)
-* 🌐 Portfolio: [vatsalgarg.vercel.app](https://vatsalgarg.vercel.app)
-* 🧠 TryHackMe: [tryhackme.com/p/vg27](https://tryhackme.com/p/vg27)
+* 👨‍💻 Explore my projects:(https://github.com/vatsalgargg)
+* 🌐 Portfolio:(https://vatsalgarg.vercel.app)
+* 🧠 TryHackMe:(https://tryhackme.com/p/mrR0bOt)
 
 ---
 
