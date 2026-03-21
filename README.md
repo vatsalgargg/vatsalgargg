@@ -12,19 +12,19 @@ I am seeking a challenging remote internship to apply my problem-solving skills 
 
 ---
 
-* 👨‍💻 Explore my projects: (https://github.com/vatsalgargg)
-* 🌐 Portfolio: (https://vatsalgarg.vercel.app)
-* 🧠 TryHackMe: (https://tryhackme.com/p/mrR0bOt)
+* 👨‍💻 Explore my projects: [github.com/vatsalgargg](https://github.com/vatsalgargg)
+* 🌐 Portfolio: [vatsalgarg.vercel.app](https://vatsalgarg.vercel.app)
+* 🧠 TryHackMe: [tryhackme.com/p/mrR0bOt](https://tryhackme.com/p/mrR0bOt)
 
 ---
 
 <h2 align="center">🛡️ Open Source Contributions</h2>
-<p align="center">Active contributor to open-source security tools, focusing on logic patching and feature implementation.</p>
+<p align="center">Active contributor to enterprise-grade security and OSINT tools, focusing on logic patching, false-positive reduction, and feature implementation.</p>
 
 | Project | Contribution | Impact | PR |
 | :--- | :--- | :--- | :--- |
-| **[Sherlock](https://github.com/sherlock-project/sherlock)** | Restored LinkedIn Username Detection | Fixed a parsing bug in the data entry logic, ensuring accurate OSINT resolution for LinkedIn profiles globally. | [🔗 Link](#) |
-| **[Second Project Name]** | [Short Title of 2nd Fix] | [1-sentence explanation of what it actually improved for the end user or codebase]. | [🔗 Link](#) |
+| **[Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)** | Patched Laravel-Env Scanner (False Positive Reduction) | Implemented HTTP header validation to eliminate soft-404 false positives, improving the scanner's accuracy for identifying exposed credentials. | [🔗 #15598](https://github.com/projectdiscovery/nuclei-templates/pull/15598) |
+| **[Sherlock](https://github.com/sherlock-project/sherlock)** | Restored LinkedIn Username Detection | Fixed a parsing bug in the data entry logic, ensuring accurate OSINT resolution for LinkedIn profiles globally. | [🔗 Link](https://github.com/sherlock-project/sherlock/pull/2824) |
 
 ---
 
