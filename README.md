@@ -13,7 +13,7 @@ I am seeking a challenging remote internship to apply my problem-solving skills 
 ---
 
 * 👨‍💻 Explore my projects: [github.com/vatsalgargg](https://github.com/vatsalgargg)
-* 🌐 Portfolio: [vatsalgarg.netlify.app](https://vatsalgarg.netlify.app)
+* 🌐 Portfolio: [vatsal.works](https://vatsal.works)
 * 🧠 TryHackMe: [tryhackme.com/p/mrR0bOt](https://tryhackme.com/p/mrR0bOt)
 
 ---
