@@ -1,12 +1,9 @@
 <h1 align="center">👋 Hi, I'm Vatsal Garg</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT;CSE+Undergraduate" alt="Typing Animation">
 </p>
-
 <h3 align="center">
 With a strong aptitude for independent research and quick learning, I am deeply interested in national security and motivated to move beyond theoretical knowledge to help protect India's critical digital infrastructure.
-
 I am seeking a challenging remote internship to apply my problem-solving skills to real-world threats and contribute to a mission-driven team.
 </h3>
 
@@ -49,6 +46,46 @@ I am seeking a challenging remote internship to apply my problem-solving skills 
 </p>
 
 ---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<table align="center" width="100%" border="1" style="border-collapse:collapse;">
+  <tr>
+    <th align="center" width="60%">Activity Graph</th>
+    <th align="center" width="40%">Profile Summary</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalgargg&theme=react-dark&hide_border=true&area=true&color=1ED760&line=1ED760&point=ffffff" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalgargg&theme=github_dark" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table align="center" width="100%" border="1" style="border-collapse:collapse;">
+  <tr>
+    <th align="center" width="50%">Stats</th>
+    <th align="center" width="15%">Streak</th>
+    <th align="center" width="35%">Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vatsalgargg&theme=react&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=vatsalgargg&theme=react-dark&hide_border=true&short_numbers=true" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgargg&theme=react&hide_border=true&layout=compact&langs_count=6" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsalgargg&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile views counter"/>
