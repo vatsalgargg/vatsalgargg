@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2e1a,60:0d1117,100:1a1a1a&height=250&section=header&text=%20%20%20%20%20%20root%40vatsal%3A~%23&fontSize=42&fontColor=1ED760&fontAlignY=40&desc=%20whoami%20%7C%20Cybersecurity%20Enthusiast%20%7C%20OSINT%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=16&descColor=aaffaa&animation=blinking" width="100%"/>
-</div>
-
 <h1 align="center">👋 Hi, I'm Vatsal Garg</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT;CSE+Undergraduate" alt="Typing Animation">
