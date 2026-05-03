@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2e1a,60:0d1117,100:1a1a1a&height=250&section=header&text=%20%20%20%20%20%20root%40vatsal%3A~%23&fontSize=42&fontColor=1ED760&fontAlignY=40&desc=%20whoami%20%7C%20Cybersecurity%20Enthusiast%20%7C%20OSINT%20%7C%20CSE%20Undergrad&descAlignY=62&descSize=16&descColor=aaffaa&animation=blinking" width="100%"/>
 </div>
 <h1 align="center">👋 Hi, I'm Vatsal Garg</h1>
- 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT+%26+Threat+Intelligence;CSE+Undergraduate;Open+Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=1ED760&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;OSINT;CSE+Undergraduate" alt="Typing Animation">
 </p>
 <h3 align="center">
 With a strong aptitude for independent research and quick learning, I am deeply interested in national security and motivated to move beyond theoretical knowledge to help protect India's critical digital infrastructure.
@@ -65,16 +64,16 @@ I am seeking a challenging remote internship to apply my problem-solving skills 
 <br/>
 <table align="center" width="100%" border="1" style="border-collapse:collapse;">
   <tr>
-    <th align="center" width="45%">Stats</th>
-    <th align="center" width="20%">Streak</th>
+    <th align="center" width="50%">Stats</th>
+    <th align="center" width="15%">Streak</th>
     <th align="center" width="35%">Languages</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vatsalgargg&theme=react&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&icon_color=1ED760&title_color=1ED760" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=vatsalgargg&theme=react&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&icon_color=1ED760&title_color=1ED760&rank_icon=github" width="100%"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=vatsalgargg&theme=react-dark&hide_border=true&ring=1ED760&fire=1ED760&currStreakLabel=1ED760" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=vatsalgargg&theme=react-dark&hide_border=true&short_numbers=true&ring=1ED760&fire=1ED760&currStreakLabel=1ED760" width="100%"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgargg&theme=react&hide_border=true&layout=compact&langs_count=6&title_color=1ED760" width="100%"/>
@@ -82,13 +81,7 @@ I am seeking a challenging remote internship to apply my problem-solving skills 
   </tr>
 </table>
 <br/>
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsalgargg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%"/>
-</p>
-<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsalgargg&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile views counter"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1ED760,50:0a2e1a,100:0d1117&height=120&section=footer" width="100%"/>
  
