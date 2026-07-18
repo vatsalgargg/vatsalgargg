@@ -37,7 +37,9 @@ def prep_photo_with_fallback(input_path, output_path="source-prepped.png"):
         prepped = clahe.apply(gray)
         
         # Save output
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        dir_name = os.path.dirname(output_path)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
         cv2.imwrite(output_path, prepped)
         print(f"Prepped image saved to {output_path}")
         
@@ -54,7 +56,9 @@ def prep_photo_with_fallback(input_path, output_path="source-prepped.png"):
         # Equalize histogram
         prepped = ImageOps.equalize(img_contrast)
         
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        dir_name = os.path.dirname(output_path)
+        if dir_name:
+            os.makedirs(dir_name, exist_ok=True)
         prepped.save(output_path)
         print(f"Fallback prepped image saved to {output_path}")
 
