@@ -24,12 +24,12 @@ def render_heatmap_svg(json_path="data/contributions.json", output_svg_path="con
     box_size = 11
     box_gap = 3
     grid_x_start = 40
-    grid_y_start = 40
+    grid_y_start = 55
     step = box_size + box_gap # 14px
     
     # Outer dimensions
     width = 860
-    height = 200
+    height = 215
     
     # We have 53 weeks (columns) and 7 days (rows)
     # Let's map days to columns
