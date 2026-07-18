@@ -9,7 +9,7 @@ def prep_photo_with_fallback(input_path, output_path="source-prepped.png"):
     try:
         import cv2
         import numpy as np
-        from PIL import Image, ImageEnhance
+        from PIL import Image
         from rembg import remove
         from io import BytesIO
         
@@ -20,21 +20,41 @@ def prep_photo_with_fallback(input_path, output_path="source-prepped.png"):
             
         rgba_img = Image.open(BytesIO(subject_data)).convert("RGBA")
         
-        # Composite onto white background
-        white_bg = Image.new("RGBA", rgba_img.size, (255, 255, 255, 255))
-        composited = Image.alpha_composite(white_bg, rgba_img).convert("RGB")
-        
-        # Convert to OpenCV format (BGR)
-        open_cv_image = np.array(composited)
+        # Convert RGB to OpenCV grayscale format
+        # Note: rembg sets alpha to 0 for background, but the RGB channels still contain the original image data,
+        # which is perfect because we want to run CLAHE before compositing onto white.
+        rgb_img = rgba_img.convert("RGB")
+        open_cv_image = np.array(rgb_img)
         bgr_img = open_cv_image[:, :, ::-1].copy()
-        
-        # Convert to grayscale
         gray = cv2.cvtColor(bgr_img, cv2.COLOR_BGR2GRAY)
         
-        # Apply CLAHE
+        # Apply CLAHE on the grayscale image containing original details (without flat background interference)
         print("Applying CLAHE contrast enhancement...")
         clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
-        prepped = clahe.apply(gray)
+        clahe_img = clahe.apply(gray)
+        
+        # Normalize the subject pixels to full 0-255 range to capture details
+        alpha_np = np.array(rgba_img.split()[-1]) # Alpha channel
+        subject_mask = alpha_np > 10
+        
+        if np.any(subject_mask):
+            print("Normalizing subject brightness range to enhance facial features...")
+            subject_pixels = clahe_img[subject_mask]
+            min_val = np.min(subject_pixels)
+            max_val = np.max(subject_pixels)
+            
+            # Stretch contrast of the subject
+            if max_val > min_val:
+                normalized = (clahe_img.astype(float) - min_val) / (max_val - min_val) * 255
+                normalized = np.clip(normalized, 0, 255).astype(np.uint8)
+            else:
+                normalized = clahe_img
+        else:
+            normalized = clahe_img
+            
+        # Composite onto a pure white background
+        # Pixels outside the subject mask become 255 (white background, maps to spaces in ASCII)
+        prepped = np.where(subject_mask, normalized, 255).astype(np.uint8)
         
         # Save output
         dir_name = os.path.dirname(output_path)
