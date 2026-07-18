@@ -91,6 +91,7 @@ def render_heatmap_svg(json_path="data/contributions.json", output_svg_path="con
     # Render Month labels & cells
     month_names = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
     last_month = -1
+    last_printed_col = -10
     
     for c_idx, col in enumerate(columns):
         x_pos = grid_x_start + c_idx * step
@@ -101,12 +102,13 @@ def render_heatmap_svg(json_path="data/contributions.json", output_svg_path="con
             first_day_date = datetime.strptime(valid_days[0]["date"], "%Y-%m-%d")
             c_month = first_day_date.month
             if c_month != last_month:
-                # Avoid printing month label on the first column to prevent clipping if it's too close to left
-                # Space month labels by at least 2 columns
-                if c_idx > 1:
-                    m_label = month_names[c_month - 1]
-                    svg.append(f'  <text x="{x_pos}" y="{grid_y_start - 8}" class="label-text">{m_label}</text>')
-                    last_month = c_month
+                # Ensure we only print if we have at least 4 columns of space since the last label
+                if c_idx - last_printed_col >= 4:
+                    if c_idx > 1:
+                        m_label = month_names[c_month - 1]
+                        svg.append(f'  <text x="{x_pos}" y="{grid_y_start - 8}" class="label-text">{m_label}</text>')
+                        last_printed_col = c_idx
+                last_month = c_month
                     
         # Draw cells in this column
         for r_idx, day_info in enumerate(col):

@@ -6,7 +6,7 @@
 <div align="center">
 
 <h3><code>vatsal@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg?v=2" width="860" alt="GitHub Contributions Heatmap" />
+<img src="./contrib-heatmap.svg?v=3" width="860" alt="GitHub Contributions Heatmap" />
 
 <br><br>
 
