@@ -27,13 +27,13 @@
 
 <h3><code>vatsal@github ~ $ cat links.json</code></h3>
 
-```json
+<pre>
 {
-  "projects": "github.com/vatsalgargg",
-  "portfolio": "vatsal.works",
-  "tryhackme": "tryhackme.com/p/mrR0bOt"
+  "projects": "<a href="https://github.com/vatsalgargg" target="_blank">github.com/vatsalgargg</a>",
+  "portfolio": "<a href="https://vatsal.works" target="_blank">vatsal.works</a>",
+  "tryhackme": "<a href="https://tryhackme.com/p/mrR0bOt" target="_blank">tryhackme.com/p/mrR0bOt</a>"
 }
-```
+</pre>
 
 <br>
 
