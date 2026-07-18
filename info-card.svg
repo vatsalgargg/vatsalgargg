@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 360" width="100%">
+  <style>
+    .card-bg {
+      fill: #0d1117;
+      stroke: #30363d;
+      stroke-width: 1.5;
+    }
+    .title-text {
+      font-family: "Fira Code", "Consolas", "Courier New", monospace;
+      font-size: 16px;
+      font-weight: bold;
+      fill: #1ED760;
+    }
+    .host-text {
+      font-family: "Fira Code", "Consolas", "Courier New", monospace;
+      font-size: 16px;
+      font-weight: bold;
+      fill: #8b949e;
+    }
+    .sep-text {
+      font-family: "Fira Code", "Consolas", "Courier New", monospace;
+      font-size: 14px;
+      fill: #30363d;
+    }
+    .key-text {
+      font-family: "Fira Code", "Consolas", "Courier New", monospace;
+      font-size: 13px;
+      font-weight: bold;
+      fill: #1ED760;
+    }
+    .val-text {
+      font-family: "Fira Code", "Consolas", "Courier New", monospace;
+      font-size: 13px;
+      fill: #c9d1d9;
+    }
+    .fade-in {
+      opacity: 0;
+    }
+  </style>
+  <rect width="490" height="360" class="card-bg" rx="8" />
+  <!-- Terminal controls -->
+  <circle cx="25" cy="20" r="6" fill="#ff5f56" />
+  <circle cx="45" cy="20" r="6" fill="#ffbd2e" />
+  <circle cx="65" cy="20" r="6" fill="#27c93f" />
+  <text x="245" y="24" font-family="Fira Code, Consolas, monospace" font-size="11" fill="#8b949e" text-anchor="middle">neofetch --vatsal</text>
+  <line x1="0" y1="36" x2="490" y2="36" stroke="#30363d" stroke-width="1" />
+  <g class="fade-in" opacity="0">
+    <text x="25" y="75" class="title-text">vatsal</text>
+    <text x="80" y="75" class="host-text">@github</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="87" class="sep-text">--------------------------------------</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.75s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="105" class="key-text">OS:</text>
+    <text x="113.0" y="105" class="val-text">Garuda Linux / Arch Linux</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="130" class="key-text">Host:</text>
+    <text x="113.0" y="130" class="val-text">vatsal.works</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.25s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="155" class="key-text">Kernel:</text>
+    <text x="113.0" y="155" class="val-text">Profile README v2.0</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.5s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="180" class="key-text">Uptime:</text>
+    <text x="113.0" y="180" class="val-text">TryHackMe: mrR0bOt</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.75s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="205" class="key-text">Shell:</text>
+    <text x="113.0" y="205" class="val-text">zsh (active-threat-hunter)</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.0s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="230" class="key-text">Stack:</text>
+    <text x="113.0" y="230" class="val-text">Python, Git, OSINT, Security, C/C++</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.25s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <text x="25" y="255" class="key-text">Projects:</text>
+    <text x="113.0" y="255" class="val-text">github.com/vatsalgargg</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.5s" fill="freeze" />
+  </g>
+  <g class="fade-in" opacity="0">
+    <rect x="25" y="290" width="22" height="16" fill="#30363d" rx="2" />
+    <rect x="25" y="312" width="22" height="16" fill="#30363d" opacity="0.6" rx="2" />
+    <rect x="53" y="290" width="22" height="16" fill="#ff5f56" rx="2" />
+    <rect x="53" y="312" width="22" height="16" fill="#ff5f56" opacity="0.6" rx="2" />
+    <rect x="81" y="290" width="22" height="16" fill="#1ED760" rx="2" />
+    <rect x="81" y="312" width="22" height="16" fill="#1ED760" opacity="0.6" rx="2" />
+    <rect x="109" y="290" width="22" height="16" fill="#ffbd2e" rx="2" />
+    <rect x="109" y="312" width="22" height="16" fill="#ffbd2e" opacity="0.6" rx="2" />
+    <rect x="137" y="290" width="22" height="16" fill="#2b91ff" rx="2" />
+    <rect x="137" y="312" width="22" height="16" fill="#2b91ff" opacity="0.6" rx="2" />
+    <rect x="165" y="290" width="22" height="16" fill="#ff79c6" rx="2" />
+    <rect x="165" y="312" width="22" height="16" fill="#ff79c6" opacity="0.6" rx="2" />
+    <rect x="193" y="290" width="22" height="16" fill="#50fa7b" rx="2" />
+    <rect x="193" y="312" width="22" height="16" fill="#50fa7b" opacity="0.6" rx="2" />
+    <rect x="221" y="290" width="22" height="16" fill="#abb2bf" rx="2" />
+    <rect x="221" y="312" width="22" height="16" fill="#abb2bf" opacity="0.6" rx="2" />
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.75s" fill="freeze" />
+  </g>
+</svg>
