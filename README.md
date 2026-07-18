@@ -11,12 +11,7 @@
 <br><br>
 
 <h3><code>vatsal@github ~ $ whoami</code></h3>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="370"><img src="./vatsal-ascii.svg" width="370" alt="ASCII Portrait" /></td>
-    <td valign="top" width="490"><img src="./info-card.svg" width="490" alt="Neofetch Card" /></td>
-  </tr>
-</table>
+<img src="./info-card.svg" width="490" alt="Neofetch Card" />
 
 </div>
 
