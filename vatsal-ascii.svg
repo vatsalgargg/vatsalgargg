@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 680" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 620" width="100%">
   <style>
     .ascii-text {
       font-family: "Fira Code", "Consolas", "Courier New", monospace;
@@ -265,88 +265,58 @@
         <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="1.96s" fill="freeze" />
       </rect>
     </clipPath>
-    <clipPath id="clip-row-50">
-      <rect x="10" y="610" width="0" height="14">
-        <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="2.0s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="clip-row-51">
-      <rect x="10" y="622" width="0" height="14">
-        <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="2.04s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="clip-row-52">
-      <rect x="10" y="634" width="0" height="14">
-        <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="2.08s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="clip-row-53">
-      <rect x="10" y="646" width="0" height="14">
-        <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="2.12s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="clip-row-54">
-      <rect x="10" y="658" width="0" height="14">
-        <animate attributeName="width" from="0" to="720.0" dur="0.06s" begin="2.16s" fill="freeze" />
-      </rect>
-    </clipPath>
   </defs>
   <g class="ascii-text">
     <text x="10" y="20" clip-path="url(#clip-row-0)">                                                                                                    </text>
-    <text x="10" y="32" clip-path="url(#clip-row-1)">                                                                                                    </text>
-    <text x="10" y="44" clip-path="url(#clip-row-2)">                                                                                                    </text>
-    <text x="10" y="56" clip-path="url(#clip-row-3)">                                                                                                    </text>
-    <text x="10" y="68" clip-path="url(#clip-row-4)">                                                                                                    </text>
-    <text x="10" y="80" clip-path="url(#clip-row-5)">                                                                                                    </text>
-    <text x="10" y="92" clip-path="url(#clip-row-6)">                                             .::-=-&#x27;.                                               </text>
-    <text x="10" y="104" clip-path="url(#clip-row-7)">                                            =sc****c++=.                                            </text>
-    <text x="10" y="116" clip-path="url(#clip-row-8)">                                           csccs####sc**=                                           </text>
-    <text x="10" y="128" clip-path="url(#clip-row-9)">                                           #sssc===-*##cs+                                          </text>
-    <text x="10" y="140" clip-path="url(#clip-row-10)">                                           cs*:&#x27;... .:+ssc                                          </text>
-    <text x="10" y="152" clip-path="url(#clip-row-11)">                                          .#c-=**-:=+=-*#-                                          </text>
-    <text x="10" y="164" clip-path="url(#clip-row-12)">                                          =+-&#x27;---&#x27; -==--c&#x27;                                          </text>
-    <text x="10" y="176" clip-path="url(#clip-row-13)">                                         +*::.&#x27;&#x27;&#x27;--&#x27;&#x27;..&#x27;=.                                          </text>
-    <text x="10" y="188" clip-path="url(#clip-row-14)">                                          &#x27;==:==--==+=:--                                           </text>
-    <text x="10" y="200" clip-path="url(#clip-row-15)">                                           .++-&#x27;:::&#x27;:-+-                                            </text>
-    <text x="10" y="212" clip-path="url(#clip-row-16)">                                            -cc-::::+*s&#x27;                                            </text>
-    <text x="10" y="224" clip-path="url(#clip-row-17)">                                         .&#x27;=c:+csssc*:s*                                            </text>
-    <text x="10" y="236" clip-path="url(#clip-row-18)">                                       .=c##=&#x27;:=+c*-&#x27; -%*-&#x27;.                                        </text>
-    <text x="10" y="248" clip-path="url(#clip-row-19)">                                  .--+**cs#-.&#x27;:--=-:--*##cc*c*-.                                    </text>
-    <text x="10" y="260" clip-path="url(#clip-row-20)">                                .:+ccc*+c%#ssccccssssscss**c#*ss-                                   </text>
-    <text x="10" y="272" clip-path="url(#clip-row-21)">                               :++++#%#s%#ccccccccccc*cc*c*c*c****=.                                </text>
-    <text x="10" y="284" clip-path="url(#clip-row-22)">                              +*++*=#%%#sscc**********cc*ss+-#s*+*+*=                               </text>
-    <text x="10" y="296" clip-path="url(#clip-row-23)">                             -sc**s+=s#s*+===*+==-=*===**c#=-s#*cc++c.                              </text>
-    <text x="10" y="308" clip-path="url(#clip-row-24)">                            .cccccs*.cs*++&#x27;::-&#x27;--&#x27;::-&#x27;&#x27;=css==s#s#cc*+-                              </text>
-    <text x="10" y="320" clip-path="url(#clip-row-25)">                            -**sss#c.=c*=:&#x27;:.:--..:..&#x27;.=css--%s#%c+::-&#x27;                             </text>
-    <text x="10" y="332" clip-path="url(#clip-row-26)">                            -:&#x27;-+#ss&#x27;:c*-.&#x27;:&#x27;+-&#x27;-::: :-&#x27;=+c::*csc-:::&#x27;&#x27;                             </text>
-    <text x="10" y="344" clip-path="url(#clip-row-27)">                            :::&#x27;:++c-.*=:&#x27;---=:-+----::&#x27;&#x27;:-:--+c+---&#x27;.:                             </text>
-    <text x="10" y="356" clip-path="url(#clip-row-28)">                            :&#x27;---+-+=.:.:#sssc*cscscs#c:&#x27;:-&#x27;--c*+=-:&#x27;.:&#x27;                            </text>
-    <text x="10" y="368" clip-path="url(#clip-row-29)">                           &#x27;:&#x27;:==****.&#x27;&#x27;:###sccccsssc#s::&#x27;:.--cc*=-:&#x27;&#x27;.-.                           </text>
-    <text x="10" y="380" clip-path="url(#clip-row-30)">                           :&#x27;&#x27;::++sc*:.&#x27;:##ssccccsssc#s-:&#x27;:&#x27;-+#c+=-&#x27;...&#x27;=                           </text>
-    <text x="10" y="392" clip-path="url(#clip-row-31)">                          =- .:::+*+*:.::##sscccccscc#s--::&#x27;=c%s#scc**+**                           </text>
-    <text x="10" y="404" clip-path="url(#clip-row-32)">                          c#c***+*=::&#x27;&#x27;&#x27;-##sc**cccscc#s-::&#x27;&#x27;-c#%%%###sscc.                          </text>
-    <text x="10" y="416" clip-path="url(#clip-row-33)">                          *####%%%s-=+&#x27;:-##sc****ccccs#*++&#x27;&#x27;*#%s@%%###ss:                           </text>
-    <text x="10" y="428" clip-path="url(#clip-row-34)">                          &#x27;ss#%%%%%c*c:-c##sc*******cc%c*+ -*s%&#x27;+%%%%#sc-                           </text>
-    <text x="10" y="440" clip-path="url(#clip-row-35)">                          &#x27;c==+c#%sc*s=:s%sc*++******c%sc- cccc  =%s*+=++                           </text>
-    <text x="10" y="452" clip-path="url(#clip-row-36)">                           -. .&#x27;=**cs#*-#%sc**++**c**c%s*&#x27;&#x27;##c*  &#x27;c-&#x27;..--                           </text>
-    <text x="10" y="464" clip-path="url(#clip-row-37)">                           -&#x27;..&#x27;=+cc#%*+%##c**++****c*##*&#x27;=sssc&#x27; :*:&#x27;.&#x27;=&#x27;                           </text>
-    <text x="10" y="476" clip-path="url(#clip-row-38)">                          .=&#x27;..-+**ccc=c%##c***++**cccs%*&#x27;*scsc*.&#x27;+&#x27;.&#x27;:+                            </text>
-    <text x="10" y="488" clip-path="url(#clip-row-39)">                           =:.&#x27;====+**+%%%#sc***+**csss%c&#x27;+*cccc++=&#x27;.:=-                            </text>
-    <text x="10" y="500" clip-path="url(#clip-row-40)">                           =:&#x27;:=+*ssc**%##ssc**+++**cs#%s:+*+++**c:.&#x27;:+.                            </text>
-    <text x="10" y="512" clip-path="url(#clip-row-41)">                           :-.-+***+c+s%#scsscc**c*cs#%%%--*c*=+c=.&#x27;:=:                             </text>
-    <text x="10" y="524" clip-path="url(#clip-row-42)">                           .=:+++=-+++%%#####ssscssssss#%*--+ssc*-.&#x27;--                              </text>
-    <text x="10" y="536" clip-path="url(#clip-row-43)">                            =+**+=*+=##csssc*cccccccssss##-===cs*=&#x27;:=                               </text>
-    <text x="10" y="548" clip-path="url(#clip-row-44)">                            =s****-=*++=+-:&#x27;:-==&#x27;:-:=*=++c=-*+=+c+&#x27;=&#x27;                               </text>
-    <text x="10" y="560" clip-path="url(#clip-row-45)">                            :#ccs=+s=+=:..&#x27;--::--==-&#x27;&#x27;:==+*-+sscc+--+                               </text>
-    <text x="10" y="572" clip-path="url(#clip-row-46)">                            :s##*c#*=-&#x27;:---:&#x27;&#x27;-==-==:&#x27;&#x27;-=+cc=sss+#c+c                               </text>
-    <text x="10" y="584" clip-path="url(#clip-row-47)">                            =%s*ss+-::--:::--+*+==-:--&#x27;:-=cs=sc=*=:-.                               </text>
-    <text x="10" y="596" clip-path="url(#clip-row-48)">                            &#x27;*+cc=---====+***cc**+=++++==-*s-+===                                   </text>
-    <text x="10" y="608" clip-path="url(#clip-row-49)">                              +**+==++****cccssssssscc*++**c*+=+&#x27;                                   </text>
-    <text x="10" y="620" clip-path="url(#clip-row-50)">                              :*+*+--==++**cs#%sscc*++=+*c**+==+                                    </text>
-    <text x="10" y="632" clip-path="url(#clip-row-51)">                              .*=+*+--==+++*c#%sc*++++**cc*++==+                                    </text>
-    <text x="10" y="644" clip-path="url(#clip-row-52)">                               c+++**=-=+***c#%ssccc**csc*++==-=                                    </text>
-    <text x="10" y="656" clip-path="url(#clip-row-53)">                               -#c+*++==++*cc#%sscc*csscc*c=---=                                    </text>
-    <text x="10" y="668" clip-path="url(#clip-row-54)">                                s#c*+===++*cs##scc*cscccc*s+---+                                    </text>
+    <text x="10" y="32" clip-path="url(#clip-row-1)">                                                . :: --.                                            </text>
+    <text x="10" y="44" clip-path="url(#clip-row-2)">                                            &#x27;=-cs+*cs*cc=-=-                                        </text>
+    <text x="10" y="56" clip-path="url(#clip-row-3)">                                          .=##c**++*ccc=+*csccc*:                                   </text>
+    <text x="10" y="68" clip-path="url(#clip-row-4)">                                         +##*+*cscscc*cc+=+++cs##=                                  </text>
+    <text x="10" y="80" clip-path="url(#clip-row-5)">                                        -@#s##ss####s*###s*++*ccc#s-                                </text>
+    <text x="10" y="92" clip-path="url(#clip-row-6)">                                     c%###c#%%ssc**c*++*s%#ccc***cs%-                               </text>
+    <text x="10" y="104" clip-path="url(#clip-row-7)">                                    :%%#ssss*+-::::::&#x27;&#x27;:-*s%%#ssssc#*                               </text>
+    <text x="10" y="116" clip-path="url(#clip-row-8)">                                    ##sssc*=--:&#x27;&#x27;&#x27;&#x27;....&#x27;::-+cssscss%*                               </text>
+    <text x="10" y="128" clip-path="url(#clip-row-9)">                                   .scss*+-::&#x27;.....   ..&#x27;:--=+cscs#%:                               </text>
+    <text x="10" y="140" clip-path="url(#clip-row-10)">                                   +%s#s=:&#x27;&#x27;&#x27;.            .&#x27;:-+ccc#*                                </text>
+    <text x="10" y="152" clip-path="url(#clip-row-11)">                                   +%s#+-=+**ccc*=----===+=----*sc#=                                </text>
+    <text x="10" y="164" clip-path="url(#clip-row-12)">                                  .%ss*-+*cccs###s+-=cs###sc*++=ss##                                </text>
+    <text x="10" y="176" clip-path="url(#clip-row-13)">                                 :s=*s=:=*scc#sss+&#x27; .+s###s*cc+-c#@+                                </text>
+    <text x="10" y="188" clip-path="url(#clip-row-14)">                                 #s&#x27;:*-&#x27;&#x27;&#x27;:-=--::&#x27;   .:-=*c+*=-:**=#&#x27;                               </text>
+    <text x="10" y="200" clip-path="url(#clip-row-15)">                               .cs+:**:&#x27;.     &#x27;&#x27;....  ... .&#x27;...&#x27;=:=s                                </text>
+    <text x="10" y="212" clip-path="url(#clip-row-16)">                              .#s+:-=+-:&#x27;&#x27;&#x27;:-++==cc*c*:-+:..  .&#x27;==c=                                </text>
+    <text x="10" y="224" clip-path="url(#clip-row-17)">                               :=*-..+--=++*c*:=sss###c=*c+-:&#x27;::+:*                                 </text>
+    <text x="10" y="236" clip-path="url(#clip-row-18)">                                 .c*&#x27;+=-=++ss+=+++**++=-+cs*=---&#x27;==                                 </text>
+    <text x="10" y="248" clip-path="url(#clip-row-19)">                                  &#x27;-=c*==--**cs*====++cscsc==--=:c.                                 </text>
+    <text x="10" y="260" clip-path="url(#clip-row-20)">                                     +s*===:&#x27;&#x27;&#x27;&#x27;......&#x27;::=--==+c=:                                  </text>
+    <text x="10" y="272" clip-path="url(#clip-row-21)">                                     .csc++=:&#x27;:=+*c*+=&#x27;&#x27;:-=++c*.                                    </text>
+    <text x="10" y="284" clip-path="url(#clip-row-22)">                                      +s#s*+:....&#x27;::&#x27;..&#x27;-++*c#=                                     </text>
+    <text x="10" y="296" clip-path="url(#clip-row-23)">                                      *c*##s+:&#x27;...    .:+*cs*s@:                                    </text>
+    <text x="10" y="308" clip-path="url(#clip-row-24)">                                     .c=:*s##ssc***++**csss+&#x27;s%=                                    </text>
+    <text x="10" y="320" clip-path="url(#clip-row-25)">                                    .+#+&#x27;-+*#%%%%%#%%%##s*=&#x27;&#x27;s@#                                    </text>
+    <text x="10" y="332" clip-path="url(#clip-row-26)">                               .:=*ssss-.:-=+cs###%%##c*=-:&#x27;.c#s+                                   </text>
+    <text x="10" y="344" clip-path="url(#clip-row-27)">                             =++*cs%@%c&#x27;.&#x27;:-+*csssssc*+=-:&#x27;. +%cs*=:.                               </text>
+    <text x="10" y="356" clip-path="url(#clip-row-28)">                           .=*-=*s%#*: ...&#x27;&#x27;-+*ccccc*+=-:... &#x27;*%%#c*++-.                            </text>
+    <text x="10" y="368" clip-path="url(#clip-row-29)">                     .&#x27;&#x27;=-+*+=+*c#c.   ..&#x27;&#x27;:---++**++-:&#x27;&#x27;&#x27;.  .=s##*=++**-&#x27;:&#x27;&#x27;&#x27;:                     </text>
+    <text x="10" y="380" clip-path="url(#clip-row-30)">                ==++***+*++===+*#%*&#x27;     &#x27;::--======-:&#x27;&#x27;&#x27;::-*sscs%s+++=++*csss#+                    </text>
+    <text x="10" y="392" clip-path="url(#clip-row-31)">               =c++===========*#%#ssc+=-:&#x27;:----==++++++*cs###ssss#s+=+===+*csc=c:                   </text>
+    <text x="10" y="404" clip-path="url(#clip-row-32)">             .+**s=+*+====---=s%%c*cccssssss##sss####%%%##scc***ss**=====*cs#c&#x27;c%ss-.               </text>
+    <text x="10" y="416" clip-path="url(#clip-row-33)">          .:=+==*-=###*==---=s%#s**+++***ccccsssssssscccc*++++**cc*+==+==*csc:+==*cc*+=:            </text>
+    <text x="10" y="428" clip-path="url(#clip-row-34)">         -**====+:*####sc+=c#%##*+*++++********cc**cc****++****cc=*s+==+**cs&#x27;=s=---::+css*=         </text>
+    <text x="10" y="440" clip-path="url(#clip-row-35)">       :++=====++&#x27;*###sss%%####c*++++++++****************++*+**sc=+csc+=+**::%c+===-:::--css-       </text>
+    <text x="10" y="452" clip-path="url(#clip-row-36)">     .cc==++++++*.+#s###%##scss*++++++++**********************cs*=**c#c**+. c#*c+*+::-==&#x27;:-=s=      </text>
+    <text x="10" y="464" clip-path="url(#clip-row-37)">     *#c*+=++*+**.=ss####sss**c+++++++************c***********c#*+cc**sss: .s#s#*++::=*=-::--cc.    </text>
+    <text x="10" y="476" clip-path="url(#clip-row-38)">    -scsc*++***cc&#x27;:csssssssc=*c+*****ccccccscsscccccccccccccccs#*+ccccc#s&#x27; .*cc#s++:-c+-==:===s*    </text>
+    <text x="10" y="488" clip-path="url(#clip-row-39)">   :ssccc**+**csc:&#x27;==scssssc+c++======--*sc---=:--+:-*s*-+==+=+c*+cscccsc. &#x27;=**c#==:++==++--+=*:    </text>
+    <text x="10" y="500" clip-path="url(#clip-row-40)">   +cc*cs**s**ccs+&#x27;..ccssss*+c:::=-::*==ssc=++*+*+*+*c#c+++=+--=*+cssccsc. .c=scs+-=*++=+*===+=*:   </text>
+    <text x="10" y="512" clip-path="url(#clip-row-41)">  &#x27;c*cccsc*cs*sc#*...*ssssc*+*cc=:&#x27;-c::c*:&#x27;:-*sc=&#x27;&#x27;&#x27;=#=&#x27;*#=:::=s**c#sccsc. .sc=%%c:*#c*-**=+=++=s.  </text>
+    <text x="10" y="524" clip-path="url(#clip-row-42)">  *c*ccssscc#ssc#*...=scssc+*&#x27;*s.  &#x27;*  *..:::=*--=*. *- ++ :+: -c*c#sscsc. .c%+*@c-s#c*=*c*++==::+  </text>
+    <text x="10" y="536" clip-path="url(#clip-row-43)"> :%cccsss#scs%ss%s&#x27; .:cccsc+*-=+::+=&#x27;&#x27;:.::==-:-::-=:::&#x27;:::::::.=c*s#sscss. .*%#=##+%#sc=*c*-&#x27;&#x27;:: -  </text>
+    <text x="10" y="548" clip-path="url(#clip-row-44)"> *+*ccss###ss%s#%c- .&#x27;ccccc*c+&#x27;&#x27;:&#x27;:--.&#x27;=+*+*sc-::::-c=::::&#x27;:-:&#x27;+scss##s#c. .*%%c*#*%#ssc=-&#x27;..:-&#x27; =. </text>
+    <text x="10" y="560" clip-path="url(#clip-row-45)">-*:&#x27;&#x27;:=*ss####s#sc*. .+cccc*c=--:= :s  sc*c--*=.&#x27;:&#x27;&#x27;+%- =- -%+ -ccssss##c. :**#%*sc%#s*-&#x27;:&#x27;&#x27;&#x27;-=&#x27; +: </text>
+    <text x="10" y="572" clip-path="url(#clip-row-46)">+*&#x27;-&#x27;. :===c%#s#cs#&#x27; .-cccc*s::&#x27;.c :s..+ss== .c=+**..s- =- -#= :-=+*c#s#*  &#x27;c**##cc#c-:&#x27;-:::-=-. -&#x27; </text>
+    <text x="10" y="584" clip-path="url(#clip-row-47)">&#x27;+.=-&#x27;.&#x27;---=##ss*#@- .:cscccs-..:s :s.&#x27;cs:*#..s+*cc-.s- *= +@+ --:::=**s=..:-&#x27;:-+scs+--=::=-=+&#x27;&#x27; &#x27;= </text>
+    <text x="10" y="596" clip-path="url(#clip-row-48)">-c.:+-&#x27;&#x27;-=-=*sc*c##- .&#x27;*cc**+=. -s :s. c= :- &#x27;s====&#x27;&#x27;#: c+ -c:.=--::-===-&#x27;&#x27;-*::+-=cc+-+=:-=+*:&#x27;&#x27;. *.</text>
+    <text x="10" y="608" clip-path="url(#clip-row-49)">*c.&#x27;=+-::=+=++=-+*==&#x27; .=c+--:+-:+#=+#++##*--+s%s+--=s#+=#%*-:-+=--::-=-=-.&#x27;-+:&#x27;cs+*c==+--=+*:::&#x27;&#x27; -=</text>
   </g>
   <rect class="cursor" x="10" y="11" width="7.2" height="11" opacity="0">
     <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="0.0s" fill="freeze" />
@@ -548,28 +518,8 @@
     <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="1.96s" fill="freeze" />
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="1.96s" fill="freeze" />
   </rect>
-  <rect class="cursor" x="10" y="611" width="7.2" height="11" opacity="0">
-    <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="2.0s" fill="freeze" />
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="2.0s" fill="freeze" />
-  </rect>
-  <rect class="cursor" x="10" y="623" width="7.2" height="11" opacity="0">
-    <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="2.04s" fill="freeze" />
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="2.04s" fill="freeze" />
-  </rect>
-  <rect class="cursor" x="10" y="635" width="7.2" height="11" opacity="0">
-    <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="2.08s" fill="freeze" />
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="2.08s" fill="freeze" />
-  </rect>
-  <rect class="cursor" x="10" y="647" width="7.2" height="11" opacity="0">
-    <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="2.12s" fill="freeze" />
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="2.12s" fill="freeze" />
-  </rect>
-  <rect class="cursor" x="10" y="659" width="7.2" height="11" opacity="0">
-    <animate attributeName="x" from="10" to="730.0" dur="0.06s" begin="2.16s" fill="freeze" />
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.99;1" dur="0.06s" begin="2.16s" fill="freeze" />
-  </rect>
-  <rect class="cursor" x="240.4" y="659" width="7.2" height="11" opacity="0">
-    <animate attributeName="opacity" values="1" dur="0.1s" begin="2.26s" fill="freeze" />
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.36s" />
+  <rect class="cursor" x="946.0" y="599" width="7.2" height="11" opacity="0">
+    <animate attributeName="opacity" values="1" dur="0.1s" begin="2.06s" fill="freeze" />
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.16s" />
   </rect>
 </svg>
