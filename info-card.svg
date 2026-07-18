@@ -55,7 +55,7 @@
   </g>
   <g class="fade-in" opacity="0">
     <text x="25" y="105" class="key-text">OS:</text>
-    <text x="113.0" y="105" class="val-text">Garuda Linux / Arch Linux</text>
+    <text x="113.0" y="105" class="val-text">Kali Linux</text>
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze" />
   </g>
   <g class="fade-in" opacity="0">
