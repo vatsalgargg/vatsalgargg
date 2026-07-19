@@ -1,6 +1,6 @@
 {
   "username": "vatsalgargg",
-  "total_contributions": 266,
+  "total_contributions": 267,
   "current_streak": 1,
   "longest_streak": 6,
   "best_day": {
@@ -8,41 +8,6 @@
     "count": 45
   },
   "days": [
-    {
-      "date": "2025-07-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-18",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-19",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-07-20",
       "level": 0,
@@ -1835,7 +1800,7 @@
     },
     {
       "date": "2026-07-13",
-      "level": 4,
+      "level": 3,
       "count": 14
     },
     {
@@ -1861,7 +1826,12 @@
     {
       "date": "2026-07-18",
       "level": 4,
-      "count": 18
+      "count": 19
+    },
+    {
+      "date": "2026-07-19",
+      "level": 0,
+      "count": 0
     }
   ]
 }
