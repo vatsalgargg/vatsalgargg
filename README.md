@@ -47,6 +47,7 @@
 | :--- | :--- | :--- | :--- |
 | **[Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)** | Patched Laravel-Env Scanner (False Positive Reduction) | Implemented HTTP header validation to eliminate soft-404 false positives, improving the scanner's accuracy for identifying exposed credentials. | [🔗 #15598](https://github.com/projectdiscovery/nuclei-templates/pull/15598) |
 | **[Sherlock](https://github.com/sherlock-project/sherlock)** | Restored LinkedIn Username Detection | Fixed a parsing bug in the data entry logic, ensuring accurate OSINT resolution for LinkedIn profiles globally. | [🔗 Link](https://github.com/sherlock-project/sherlock/pull/2824) |
+| **[OpenClaw](https://github.com/openclaw/openclaw)** | Fixed Browser CDP Worker Lifecycle | Fixed a resource leak by ensuring attached browser workers exit cleanly after CDP adapter usage, improving process management and reliability. | [🔗 #122103](https://github.com/openclaw/openclaw/pull/122103) |
 
 <br>
 
