@@ -1850,13 +1850,18 @@
     },
     {
       "date": "2026-08-13",
-      "level": 2,
-      "count": 5
+      "level": 1,
+      "count": 4
     },
     {
       "date": "2026-08-14",
       "level": 1,
-      "count": 1
+      "count": 2
+    },
+    {
+      "date": "2026-08-15",
+      "level": 0,
+      "count": 0
     }
   ]
 }
