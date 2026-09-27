@@ -37,7 +37,7 @@
     </rect>
   </g>
   <g>
-    <rect x="40" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="40" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.06s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.06s" fill="freeze" additive="sum" />
     </rect>
@@ -49,7 +49,7 @@
     </rect>
   </g>
   <g>
-    <rect x="40" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="40" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.09s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.09s" fill="freeze" additive="sum" />
     </rect>
@@ -67,7 +67,7 @@
     </rect>
   </g>
   <g>
-    <rect x="54" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="54" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.045s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.045s" fill="freeze" additive="sum" />
     </rect>
@@ -79,7 +79,7 @@
     </rect>
   </g>
   <g>
-    <rect x="54" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="54" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.075s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.075s" fill="freeze" additive="sum" />
     </rect>
@@ -96,7 +96,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.105s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="68" y="57" class="label-text">Oct</text>
   <g>
     <rect x="68" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.03s" fill="freeze" />
@@ -110,7 +109,7 @@
     </rect>
   </g>
   <g>
-    <rect x="68" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="68" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.06s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.06s" fill="freeze" additive="sum" />
     </rect>
@@ -128,7 +127,7 @@
     </rect>
   </g>
   <g>
-    <rect x="68" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="68" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.105s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.105s" fill="freeze" additive="sum" />
     </rect>
@@ -152,7 +151,7 @@
     </rect>
   </g>
   <g>
-    <rect x="82" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="82" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.075s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.075s" fill="freeze" additive="sum" />
     </rect>
@@ -194,7 +193,7 @@
     </rect>
   </g>
   <g>
-    <rect x="96" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="96" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.09s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.09s" fill="freeze" additive="sum" />
     </rect>
@@ -212,7 +211,7 @@
     </rect>
   </g>
   <g>
-    <rect x="96" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="96" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.135s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.135s" fill="freeze" additive="sum" />
     </rect>
@@ -223,6 +222,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.15s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="110" y="57" class="label-text">Nov</text>
   <g>
     <rect x="110" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.075s" fill="freeze" />
@@ -265,7 +265,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.165s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="124" y="57" class="label-text">Nov</text>
   <g>
     <rect x="124" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.09s" fill="freeze" />
@@ -357,7 +356,7 @@
     </rect>
   </g>
   <g>
-    <rect x="152" y="79" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="152" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.135s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.135s" fill="freeze" additive="sum" />
     </rect>
@@ -399,7 +398,7 @@
     </rect>
   </g>
   <g>
-    <rect x="166" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="166" y="79" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.15s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.15s" fill="freeze" additive="sum" />
     </rect>
@@ -434,6 +433,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.225s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="180" y="57" class="label-text">Dec</text>
   <g>
     <rect x="180" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.15s" fill="freeze" />
@@ -476,7 +476,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.24s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="194" y="57" class="label-text">Dec</text>
   <g>
     <rect x="194" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.165s" fill="freeze" />
@@ -562,7 +561,7 @@
     </rect>
   </g>
   <g>
-    <rect x="222" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="222" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.195s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.195s" fill="freeze" additive="sum" />
     </rect>
@@ -603,8 +602,9 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.285s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="236" y="57" class="label-text">Jan</text>
   <g>
-    <rect x="236" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="236" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.21s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.21s" fill="freeze" additive="sum" />
     </rect>
@@ -645,7 +645,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.3s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="250" y="57" class="label-text">Jan</text>
   <g>
     <rect x="250" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.225s" fill="freeze" />
@@ -731,7 +730,7 @@
     </rect>
   </g>
   <g>
-    <rect x="278" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="278" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.255s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.255s" fill="freeze" additive="sum" />
     </rect>
@@ -772,8 +771,9 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.345s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="292" y="57" class="label-text">Feb</text>
   <g>
-    <rect x="292" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="292" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.27s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.27s" fill="freeze" additive="sum" />
     </rect>
@@ -814,7 +814,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.36s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="306" y="57" class="label-text">Feb</text>
   <g>
     <rect x="306" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.285s" fill="freeze" />
@@ -941,6 +940,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.405s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="348" y="57" class="label-text">Mar</text>
   <g>
     <rect x="348" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.33s" fill="freeze" />
@@ -960,7 +960,7 @@
     </rect>
   </g>
   <g>
-    <rect x="348" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="348" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.375s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.375s" fill="freeze" additive="sum" />
     </rect>
@@ -983,7 +983,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.42s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="362" y="57" class="label-text">Mar</text>
   <g>
     <rect x="362" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.345s" fill="freeze" />
@@ -1009,31 +1008,31 @@
     </rect>
   </g>
   <g>
-    <rect x="362" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="362" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.405s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.405s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="362" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="362" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.42s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.42s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="362" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="362" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.435s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.435s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="376" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="376" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.36s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.36s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="376" y="79" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="376" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.375s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.375s" fill="freeze" additive="sum" />
     </rect>
@@ -1051,7 +1050,7 @@
     </rect>
   </g>
   <g>
-    <rect x="376" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="376" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.42s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.42s" fill="freeze" additive="sum" />
     </rect>
@@ -1069,7 +1068,7 @@
     </rect>
   </g>
   <g>
-    <rect x="390" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="390" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.375s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.375s" fill="freeze" additive="sum" />
     </rect>
@@ -1081,31 +1080,31 @@
     </rect>
   </g>
   <g>
-    <rect x="390" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="390" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.405s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.405s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="390" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="390" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.42s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.42s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="390" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="390" y="121" width="11" height="11" rx="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.435s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.435s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="390" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="390" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.45s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.45s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="390" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="390" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.465s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.465s" fill="freeze" additive="sum" />
     </rect>
@@ -1117,13 +1116,13 @@
     </rect>
   </g>
   <g>
-    <rect x="404" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="404" y="79" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.405s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.405s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="404" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="404" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.42s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.42s" fill="freeze" additive="sum" />
     </rect>
@@ -1135,7 +1134,7 @@
     </rect>
   </g>
   <g>
-    <rect x="404" y="121" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+    <rect x="404" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.45s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.45s" fill="freeze" additive="sum" />
     </rect>
@@ -1152,6 +1151,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.48s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="418" y="57" class="label-text">Apr</text>
   <g>
     <rect x="418" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.405s" fill="freeze" />
@@ -1177,7 +1177,7 @@
     </rect>
   </g>
   <g>
-    <rect x="418" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="418" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.465s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.465s" fill="freeze" additive="sum" />
     </rect>
@@ -1194,7 +1194,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.495s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="432" y="57" class="label-text">Apr</text>
   <g>
     <rect x="432" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.42s" fill="freeze" />
@@ -1208,19 +1207,19 @@
     </rect>
   </g>
   <g>
-    <rect x="432" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="432" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.45s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.45s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="432" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="432" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.465s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.465s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="432" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="432" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.48s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.48s" fill="freeze" additive="sum" />
     </rect>
@@ -1250,7 +1249,7 @@
     </rect>
   </g>
   <g>
-    <rect x="446" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="446" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.465s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.465s" fill="freeze" additive="sum" />
     </rect>
@@ -1262,19 +1261,19 @@
     </rect>
   </g>
   <g>
-    <rect x="446" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="446" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.495s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.495s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="446" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="446" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.51s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.51s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="446" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="446" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.525s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.525s" fill="freeze" additive="sum" />
     </rect>
@@ -1292,7 +1291,7 @@
     </rect>
   </g>
   <g>
-    <rect x="460" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="460" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.48s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.48s" fill="freeze" additive="sum" />
     </rect>
@@ -1310,19 +1309,20 @@
     </rect>
   </g>
   <g>
-    <rect x="460" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="460" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.525s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.525s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="460" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="460" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.54s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.54s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="474" y="57" class="label-text">May</text>
   <g>
-    <rect x="474" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="474" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.465s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.465s" fill="freeze" additive="sum" />
     </rect>
@@ -1334,19 +1334,19 @@
     </rect>
   </g>
   <g>
-    <rect x="474" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="474" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.495s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.495s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="474" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="474" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.51s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.51s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="474" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="474" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.525s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.525s" fill="freeze" additive="sum" />
     </rect>
@@ -1358,12 +1358,11 @@
     </rect>
   </g>
   <g>
-    <rect x="474" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="474" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.555s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="488" y="57" class="label-text">May</text>
   <g>
     <rect x="488" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.48s" fill="freeze" />
@@ -1395,19 +1394,19 @@
     </rect>
   </g>
   <g>
-    <rect x="488" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="488" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.555s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="488" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="488" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.57s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.57s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="502" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="502" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.495s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.495s" fill="freeze" additive="sum" />
     </rect>
@@ -1425,19 +1424,19 @@
     </rect>
   </g>
   <g>
-    <rect x="502" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="502" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.54s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.54s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="502" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="502" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.555s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="502" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="502" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.57s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.57s" fill="freeze" additive="sum" />
     </rect>
@@ -1461,19 +1460,19 @@
     </rect>
   </g>
   <g>
-    <rect x="516" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="516" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.54s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.54s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="516" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="516" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.555s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="516" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="516" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.57s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.57s" fill="freeze" additive="sum" />
     </rect>
@@ -1485,7 +1484,7 @@
     </rect>
   </g>
   <g>
-    <rect x="516" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="516" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.6s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.6s" fill="freeze" additive="sum" />
     </rect>
@@ -1503,7 +1502,7 @@
     </rect>
   </g>
   <g>
-    <rect x="530" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="530" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.555s" fill="freeze" additive="sum" />
     </rect>
@@ -1527,11 +1526,12 @@
     </rect>
   </g>
   <g>
-    <rect x="530" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="530" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.615s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.615s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="544" y="57" class="label-text">Jun</text>
   <g>
     <rect x="544" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.54s" fill="freeze" />
@@ -1551,7 +1551,7 @@
     </rect>
   </g>
   <g>
-    <rect x="544" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="544" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.585s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.585s" fill="freeze" additive="sum" />
     </rect>
@@ -1574,7 +1574,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.63s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="558" y="57" class="label-text">Jun</text>
   <g>
     <rect x="558" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.555s" fill="freeze" />
@@ -1594,7 +1593,7 @@
     </rect>
   </g>
   <g>
-    <rect x="558" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="558" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.6s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.6s" fill="freeze" additive="sum" />
     </rect>
@@ -1630,13 +1629,13 @@
     </rect>
   </g>
   <g>
-    <rect x="572" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="572" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.6s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.6s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="572" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="572" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.615s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.615s" fill="freeze" additive="sum" />
     </rect>
@@ -1672,13 +1671,13 @@
     </rect>
   </g>
   <g>
-    <rect x="586" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="586" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.615s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.615s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="586" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="586" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.63s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.63s" fill="freeze" additive="sum" />
     </rect>
@@ -1701,6 +1700,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.675s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="600" y="57" class="label-text">Jul</text>
   <g>
     <rect x="600" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.6s" fill="freeze" />
@@ -1743,21 +1743,20 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.69s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="614" y="57" class="label-text">Jul</text>
   <g>
-    <rect x="614" y="65" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="614" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.615s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.615s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="614" y="79" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="614" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.63s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.63s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="614" y="93" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="614" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.645s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.645s" fill="freeze" additive="sum" />
     </rect>
@@ -1781,7 +1780,7 @@
     </rect>
   </g>
   <g>
-    <rect x="614" y="149" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="614" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.705s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.705s" fill="freeze" additive="sum" />
     </rect>
@@ -1805,19 +1804,19 @@
     </rect>
   </g>
   <g>
-    <rect x="628" y="107" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="628" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.675s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.675s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="628" y="121" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="628" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.69s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.69s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="628" y="135" width="11" height="11" rx="2" fill="#161b22" opacity="0">
+    <rect x="628" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.705s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.705s" fill="freeze" additive="sum" />
     </rect>
@@ -1870,6 +1869,7 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.735s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="656" y="57" class="label-text">Aug</text>
   <g>
     <rect x="656" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.66s" fill="freeze" />
@@ -1912,7 +1912,6 @@
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.75s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="670" y="57" class="label-text">Aug</text>
   <g>
     <rect x="670" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.675s" fill="freeze" />
@@ -2016,7 +2015,7 @@
     </rect>
   </g>
   <g>
-    <rect x="698" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="698" y="107" width="11" height="11" rx="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.75s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.75s" fill="freeze" additive="sum" />
     </rect>
@@ -2028,7 +2027,7 @@
     </rect>
   </g>
   <g>
-    <rect x="698" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="698" y="135" width="11" height="11" rx="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.78s" fill="freeze" additive="sum" />
     </rect>
@@ -2058,13 +2057,13 @@
     </rect>
   </g>
   <g>
-    <rect x="712" y="107" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+    <rect x="712" y="107" width="11" height="11" rx="2" fill="#26a641" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.765s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.765s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="712" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="712" y="121" width="11" height="11" rx="2" fill="#39d353" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.78s" fill="freeze" additive="sum" />
     </rect>
@@ -2076,11 +2075,12 @@
     </rect>
   </g>
   <g>
-    <rect x="712" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="712" y="149" width="11" height="11" rx="2" fill="#26a641" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.81s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.81s" fill="freeze" additive="sum" />
     </rect>
   </g>
+  <text x="726" y="57" class="label-text">Sep</text>
   <g>
     <rect x="726" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.735s" fill="freeze" />
@@ -2100,32 +2100,31 @@
     </rect>
   </g>
   <g>
-    <rect x="726" y="107" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+    <rect x="726" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.78s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="726" y="121" width="11" height="11" rx="2" fill="#39d353" opacity="0">
+    <rect x="726" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.795s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.795s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="726" y="135" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+    <rect x="726" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.81s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.81s" fill="freeze" additive="sum" />
     </rect>
   </g>
   <g>
-    <rect x="726" y="149" width="11" height="11" rx="2" fill="#26a641" opacity="0">
+    <rect x="726" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.825s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.825s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <text x="740" y="57" class="label-text">Sep</text>
   <g>
-    <rect x="740" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="740" y="65" width="11" height="11" rx="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.75s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.75s" fill="freeze" additive="sum" />
     </rect>
@@ -2173,7 +2172,7 @@
     </rect>
   </g>
   <g>
-    <rect x="754" y="79" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+    <rect x="754" y="79" width="11" height="11" rx="2" fill="#006d32" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.78s" fill="freeze" additive="sum" />
     </rect>
@@ -2209,51 +2208,15 @@
     </rect>
   </g>
   <g>
-    <rect x="768" y="65" width="11" height="11" rx="2" fill="#006d32" opacity="0">
+    <rect x="768" y="65" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.78s" fill="freeze" />
       <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.78s" fill="freeze" additive="sum" />
     </rect>
   </g>
-  <g>
-    <rect x="768" y="79" width="11" height="11" rx="2" fill="#006d32" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.795s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.795s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
-  <g>
-    <rect x="768" y="93" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.81s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.81s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
-  <g>
-    <rect x="768" y="107" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.825s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.825s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
-  <g>
-    <rect x="768" y="121" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.84s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.84s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
-  <g>
-    <rect x="768" y="135" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.855s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.855s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
-  <g>
-    <rect x="768" y="149" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.87s" fill="freeze" />
-      <animateTransform attributeName="transform" type="translate" from="-4,-4" to="0,0" dur="0.25s" begin="0.87s" fill="freeze" additive="sum" />
-    </rect>
-  </g>
   <text x="25" y="185" class="stats-text">
-    Total Contributions: <tspan class="stats-highlight">1,153</tspan>  |  
-    Current Streak: <tspan class="stats-highlight">71 days</tspan>  |  
-    Longest Streak: <tspan class="stats-highlight">71 days</tspan>
+    Total Contributions: <tspan class="stats-highlight">1,179</tspan>  |  
+    Current Streak: <tspan class="stats-highlight">72 days</tspan>  |  
+    Longest Streak: <tspan class="stats-highlight">72 days</tspan>
   </text>
   <g>
     <text x="666" y="183" class="legend-text">Less</text>
